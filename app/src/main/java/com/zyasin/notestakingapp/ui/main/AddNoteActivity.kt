@@ -71,7 +71,7 @@ fun AddNoteScreen(
                     ) {
                         Text(
                             //text = stringResource(id = R.string.title_notes_activity),
-                            text="Task Title",
+                            text="Task Notes",
                             style = MaterialTheme.typography.titleLarge,
                             fontWeight = FontWeight.Bold,
                             modifier = Modifier.fillMaxWidth(),
